@@ -16,6 +16,9 @@ Students are expected to:
 - Name: Vu Hoang Lan
 - ID: 22BI13244
 
+- Name: Ta Minh Hieu
+- ID: 22BI13161
+
 - Name: Dinh Vu Anh
 - ID: 22BI13012
 
